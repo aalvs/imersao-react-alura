@@ -1,0 +1,164 @@
+{
+  "categorias": [
+    {
+      "titulo": "JavaScript",
+      "cor": "#ffffff",
+      "link_extra": {
+        "text": "Cursos de JavaScript na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "O que é JavaScript?",
+          "url": "https://www.youtube.com/watch?v=NaVSbnnV75Q"
+        },
+        {
+          "titulo": "Aprenda JavaScript em 10 minutos",
+          "url": "https://www.youtube.com/watch?v=RvcRxEeJqi8"
+        },
+        {
+          "titulo": "JavaScript Completo em 4hrs",
+          "url": "https://www.youtube.com/watch?v=i6Oi-YtXnAU"
+        },
+        {
+          "titulo": "O futuro do JavaScript é programar dessa forma aqui!",
+          "url": "https://www.youtube.com/watch?v=jA5XX7Fd8Ys"
+        }  
+      ]
+    },
+    {
+      "titulo": "HTML/CSS",
+      "cor": "#ffffff",
+      "link_extra": {
+        "text": "Cursos de HTML/CSSs na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Pare de chutar e aprenda a position: absolute",
+          "url": "https://www.youtube.com/watch?v=f8H-wstL0nU&t=98s"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a position: fixed",
+          "url": "https://www.youtube.com/watch?v=e41QFmkqaEY"
+        },
+        {
+          "titulo": "CSS Grid Layout e Flexbox - Quando Utilizar",
+          "url": "https://www.youtube.com/watch?v=x-4z_u8LcGc&t=1158s"
+        },
+        {
+          "titulo": "CSS FLEXBOX - FLEX-GROW",
+          "url": "https://www.youtube.com/watch?v=vZUwiQbaKVM"
+        }
+      ]
+    },
+    {
+      "titulo": "Angular.js",
+      "cor": "#ffffff",
+      "link_extra": {
+        "text": "Cursos de Angular.js na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "O que é Angular e AngularJS?",
+          "url": "https://www.youtube.com/watch?v=LFlNU30u7d8&t=87s"
+        },
+        {
+          "titulo": "Curso Angular 8: Entendendo a Estrutura do Projeto e Hello World!",
+          "url": "https://www.youtube.com/watch?v=vfJgw1Al6UE"
+        },
+        {
+          "titulo": "Angular: Você acha DIFÍCIL por causa disso!",
+          "url": "https://www.youtube.com/watch?v=FAv3Bo84NXk"
+        },
+        {
+          "titulo": "Angular Instalando o Angular CLI e criando o primeiro projeto",
+          "url": "https://www.youtube.com/watch?v=xqWovo6Enq0"
+        }
+      ]
+    },
+    {
+      "titulo": "Vue.js",
+      "cor": "#ffffff",
+      "link_extra": {
+        "text": "Cursos de Vue.js na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+        },
+      "videos": [
+        {
+          "titulo": "O que posso fazer com Vue.js?",
+          "url": "https://www.youtube.com/watch?v=zZxeH_U-R6A"
+        },
+        {
+          "titulo": "Aprenda Vue.JS",
+          "url": "https://www.youtube.com/watch?v=IUrjQwLD8xI"
+        },
+        {
+          "titulo": "VueJS em 1 hora!",
+          "url": "https://www.youtube.com/watch?v=cSa-SMVMGsE"
+        },
+        {
+          "titulo": "Introdução, O que é Vue.js?",
+          "url": "https://www.youtube.com/watch?v=npA_f0ztIt0"
+        }
+      ]
+    },
+    {
+      "titulo": "Bootstrap",
+      "cor": "#ffffff",
+      "link_extra": {
+        "text": "Cursos de Bootstrap na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Bootstrap // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=zEi62PpFezU"
+        },
+        {
+          "titulo": "Como instalar o Bootstrap 4 com NPM e Sass",
+          "url": "https://www.youtube.com/watch?v=VwN9OzoK9o8"
+        },
+        {
+          "titulo": "DCurso relâmpago de Bootstrap 4",
+          "url": "https://www.youtube.com/watch?v=9QlRtS7FckI"
+        },
+        {
+          "titulo": "O que é Bootstrap? Como Utilizar o Melhor Framework Front-End",
+          "url": "https://www.youtube.com/watch?v=mVgrenJX5dI"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#ffffff",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "hhttps://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        }
+      ]
+    }
+  ]
+}
